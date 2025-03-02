@@ -27,7 +27,7 @@ def main():
                 st.subheader("I will show you stats of the data")
                 st.write(data.describe())
         except:
-            print("Let me handle baby")
+            print("Let me handle.")
 
 
 if __name__== "__main__":
